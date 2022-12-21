@@ -16,3 +16,4 @@ What you'll learn
 - Encoding sniffing
 - Same-Origin Policy
 - CSRF (Cross-Site Request Forgery)
+fuck
